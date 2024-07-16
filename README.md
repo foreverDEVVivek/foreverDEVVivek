@@ -6,6 +6,11 @@
   <body>
 <h1>Welcome to my github</h1>
      <li style="list-style-type:"georgian">Hey there! I'm Vivek Kumar, a passionate aspiring Full Stack Developer eager to embark on the journey of transforming a legit website.</li>
+    <h3>About me!</h3>
+    <li style="list-style-type:"georgian">Proficient in SQL, Advanced Excel, Microsoft Power BI & Google studio I excel in data analysis, visualization, and crafting dynamic dashboards.</li>
+    
+    <li style="list-style-type:"georgian">In addition to my technical skills, I bring strong analytical thinking, attention to detail, and effective communication to every project. My adaptability, collaboration, and results-driven approach ensure success in any endeavor.</li>
+    
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
