@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-     <style>
-       h1{
-         background-color:red;
-         }
-     </style>
+     
   </head>
   <body>
 <h1>Welcome to my github</h1>
