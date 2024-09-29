@@ -1,6 +1,6 @@
 
-# Welcome back family
-     - Hey there! I'm Vivek Kumar, a passionate aspiring Full Stack Developer eager to embark on the journey of transforming a legit website.
+# Welcome back family !
+- Hey there! I'm Vivek Kumar, a passionate aspiring Full Stack Developer eager to embark on the journey of transforming a legit website.
      
 ## Table of Contents
 - [About](#about-me)
