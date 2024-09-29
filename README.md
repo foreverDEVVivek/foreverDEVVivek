@@ -13,14 +13,6 @@
 - Proficient in React.js, SQL, Mongodb & Node.js Express.js NPM I command in core function of express.js, visualization, and crafting dynamic websites.
 - In addition to my technical skills, I bring strong analytical thinking, attention to detail, and effective communication to every project. My adaptability, collaboration, and results-driven approach ensure success in any endeavor.
     
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/vivek-kumar-640540257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    
-  <a href="https://www.youtube.com/@Pro_programming_Hub"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
- <a href="https://x.com/riyal_Vivek"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-
  ## Work Experience 
  - I am a freelancer, earlier I worked with one of my mentor as he is also a freelancer but very knowledgeable guy.
  - I have been studying here for three years, I developed a lot of website including **Static** & **Dynamic**.
@@ -39,5 +31,12 @@
  - [discord](https://discord.com/channels/@me)
 
 Or you can directly call me on +91 9310460643
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/vivek-kumar-640540257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    
+  <a href="https://www.youtube.com/@Pro_programming_Hub"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+ <a href="https://x.com/riyal_Vivek"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 **Thank you everybody to reach me out**
