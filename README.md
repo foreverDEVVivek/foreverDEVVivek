@@ -30,10 +30,12 @@ Hey there! I'm **Vivek Kumar**, a passionate and ambitious Full Stack Developer,
 
 ## 👨‍💻 About Me
 
+- 🔥 Passionate about **web development** and **coding** — it’s more than a skill, it’s a journey.
 - 💡 Proficient in **React.js**, **Node.js**, **MongoDB**, **Express.js**, **Next.js**, and **SQL**.
 - 🛠️ Skilled at core functionalities of Express, frontend/backend integration, and deploying dynamic web apps.
 - 🔍 Strong analytical thinking, attention to detail, and clean communication style.
 - 🤝 Adaptive, collaborative, and results-driven — ready to thrive in team environments or solo projects.
+- 🚀 Motto: _“Just keep going...”_
 
 ---
 
